@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning HTML/CSS/JS. This learning journey (hm, I should use that saying more) has been some of the most fun I've had while learning. Being able to control my learning pace and being able to implement what I've learned in my own way has been vital to me solidifying my understanding of the materials.
 
-- 📫 How to reach me: 
+- 📫 How to reach me: <br>
     o Twitter: https://twitter.com/TypeErrorDev <br>
     o LinkedIn: https://www.linkedin.com/in/matthewpantel/
 
