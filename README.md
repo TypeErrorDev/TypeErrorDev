@@ -14,29 +14,29 @@
 <p align="center"><img src="https://profile-counter.glitch.me/{typeerrordev}/count.svg" alt="TypeErrorDev :: Visitor's Count" /></p>
 <br/>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TypeErrorDev&theme=chartreuse-dark)](https://git.io/streak-stats)
 #
 
 [![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=typeerrordev&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/typeerrordev)
 
 <p align="center">
   <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=typeerrordev&theme=dark&hide_border=true"/>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TypeErrorDev&theme=Javascript-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000&currStreakNum=DD0000"/>
   </a>
 </p>
 
+
 #
-<a target="_blank"><img align="center" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/typeerrordev/typeerrordev/blob/master/GIF/github.gif"></a>
+
 
 <br/>
-
+<p align="center">
 **𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
 <br/>
 <br/>
-<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40"  src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-#
+    </p>
 
 
 <br>
