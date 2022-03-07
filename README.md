@@ -8,4 +8,4 @@
     o Twitter: https://twitter.com/TypeErrorDev <br>
     o LinkedIn: https://www.linkedin.com/in/matthewpantel/
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TypeErrorDev&theme=chartreuse-dark)](https://git.io/streak-stats)
+<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TypeErrorDev&theme=chartreuse-dark)](https://git.io/streak-stats)</p>
