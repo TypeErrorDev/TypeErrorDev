@@ -8,4 +8,65 @@
     o Twitter: https://twitter.com/TypeErrorDev <br>
     o LinkedIn: https://www.linkedin.com/in/matthewpantel/
 
-<p align="center">[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TypeErrorDev&theme=chartreuse-dark)](https://git.io/streak-stats)</p>
+
+
+<h4 align="center">Visitor's count 👀</h4>
+<p align="center"><img src="https://profile-counter.glitch.me/{typeerrordev}/count.svg" alt="TypeErrorDev :: Visitor's Count" /></p>
+<br/>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TypeErrorDev&theme=chartreuse-dark)](https://git.io/streak-stats)
+#
+
+[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=typeerrordev&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/typeerrordev)
+
+<p align="center">
+  <a>
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=typeerrordev&theme=dark&hide_border=true"/>
+  </a>
+</p>
+
+#
+<a target="_blank"><img align="center" height="300" width="300" alt="𝙶𝙸𝙵" src="https://github.com/typeerrordev/typeerrordev/blob/master/GIF/github.gif"></a>
+
+<br/>
+
+**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
+<br/>
+<br/>
+<code><img height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+#
+
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/typeerrordev">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=typeerrordev&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/typeerrordev">
+    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=typeerrordev&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
+  </a>
+</p>
+</details>
+<br>
+
+![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=typeerrordev&theme=react-dark&hide_border=true&area=true)
+<br/>
+
+#
+
+<summary>
+  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
+  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
+</summary>
+
+<a target="_blank">
+  <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@16c5dd78-106c-414b-8db4-1f9997584cea/6c236710-b07a-49d0-b996-f00d7b192fbe.svg" >
+</a>
+
+<br>
+
+
+
