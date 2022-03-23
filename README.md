@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TypeErrorDev and I've just started my self taught journey to becoming a Front End Developer. 
+- 👋 Hi, I’m TypeErrorDev and I've just started my self taught journey to becoming a Front End Developer. 
 
 - 👀 I’m interested in always improving the environment I'm in, whether its outside, in school, or at work. My daily goal is to ensure that I contribute to the improvement of my environment, and to always learn something to better myself.
 
