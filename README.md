@@ -1,72 +1,30 @@
-- 👋 Hi, I’m TypeErrorDev and I've just started my self taught journey to becoming a Front End Developer. 
+<h1 align="center">Hi 👋, I'm Matt!</h1>
+<h3 align="center">I'm a Software Engineer and I am passionate about creating beautiful websites! I'm looking for a Software Engineering position that focuses on reactjs or Vuejs frameworks.</h3>
 
-- 👀 I’m interested in always improving the environment I'm in, whether its outside, in school, or at work. My daily goal is to ensure that I contribute to the improvement of my environment, and to always learn something to better myself.
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=typeerrordev&label=Profile%20views&color=0e75b6&style=flat" alt="typeerrordev" /> </p>
 
-- 🌱 I’m currently learning HTML/CSS/JS. This learning journey has been some of the most fun I've had in recent years. Being able to control my learning pace and able to implement what I've learned in my own way has been vital to me solidifying my understanding of the materials.
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=typeerrordev" alt="typeerrordev" /></a> </p>
 
-- 📫 How to reach me: <br>
-    o Twitter: https://twitter.com/TypeErrorDev <br>
-    o LinkedIn: https://www.linkedin.com/in/matthewpantel/
+<p align="center"> <a href="https://twitter.com/typeerrordev" target="blank"><img src="https://img.shields.io/twitter/follow/typeerrordev?logo=twitter&style=for-the-badge" alt="typeerrordev" /></a> </p>
 
+- 🌱 I’m currently learning **Javascript and will be deep diving in React in the coming months**
 
+- 📫 How to reach me **twitter: TypeErrorDev**
 
-<h4 align="center">Visitor's count 👀</h4>
-<p align="center"><img src="https://profile-counter.glitch.me/{typeerrordev}/count.svg" alt="TypeErrorDev :: Visitor's Count" /></p>
-<br/>
+- ⚡ Fun fact **I've trained with TeamUSA Judo, and compete nationally in the 81kg division**
 
-#
-
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=typeerrordev&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/typeerrordev)
-
+<h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=TypeErrorDev&theme=Javascript-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&fire=DD0000&currStreakNum=DD0000"/>
-  </a>
+<a href="https://twitter.com/typeerrordev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="typeerrordev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/matthewpantel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matthewpantel" height="30" width="40" /></a>
 </p>
 
+<h3 align="center">Languages and Tools:</h3>
+<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-#
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=typeerrordev&show_icons=true&locale=en&layout=compact" alt="typeerrordev" /></p>
 
-
-<br/>
-<p align="center">
-**𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴𝚂 𝙰𝙽𝙳 𝚃𝙾𝙾𝙻𝚂:**  
-<br/>
-<br/>
-<code><img height="50" width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/120px-HTML5_logo_and_wordmark.svg.png"></code>
-<code><img height="40" width="40"  src="https://cdn.iconscout.com/icon/free/png-256/css-131-722685.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code></p>
-
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/typeerrordev">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=typeerrordev&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/typeerrordev">
-    <img align="center" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=typeerrordev&text_color=FFFFFF&bg_color=000000&title_color=94b4a4&langs_count=15&layout=compact&hide_border=true" />
-  </a>
-</p>
-</details>
-<br>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=typeerrordev&theme=react-dark&hide_border=true&area=true)
-<br/>
-
-#
-
-<summary>
-  <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>
-  <strong>𝚆𝚊𝚔𝚊𝚃𝚒𝚖𝚎 𝚂𝚝𝚊𝚝𝚜 : </strong>
-</summary>
-
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=typeerrordev&" alt="typeerrordev" /></p>
 <a target="_blank">
   <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@16c5dd78-106c-414b-8db4-1f9997584cea/6c236710-b07a-49d0-b996-f00d7b192fbe.svg" >
 </a>
-
-<br>
-
-
-
