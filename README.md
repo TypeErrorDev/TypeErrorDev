@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **twitter: TypeErrorDev**
 
-- ⚡ Fun fact **I've trained with TeamUSA Judo, and compete nationally in the 81kg division**
+- ⚡ Fun fact **I've trained with TeamUSA Judo, and I compete nationally in Judo at the 81kg Brown Belt division**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
