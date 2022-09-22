@@ -9,7 +9,10 @@
 
 - 🌱 I’m currently learning **Javascript and will be deep diving in React in the coming months**
 
-- 📫 How to reach me **twitter: TypeErrorDev**
+- 📫 How to reach me 
+  - Portfolio - [www.MatthewPantel.com](https://www.matthewpantel.com)
+  - LinkedIn - [@MatthewPantel](https://www.linkedin.com/in/MatthewPantel)
+  - Twitter - [@TypeErrorDev](https://www.twitter.com/TypeErrorDev)
 
 - ⚡ Fun fact **I've trained with TeamUSA Judo, and I compete nationally in Judo at the 81kg Brown Belt division**
 
