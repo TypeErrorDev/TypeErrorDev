@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Matt!</h1>
-<h3 align="center">I'm a Software Engineer and I am passionate about creating beautiful websites! I'm looking for a Software Engineering position that focuses on reactjs or Vuejs projects.</h3>
+<h3 align="center">I'm a Software Engineer and I am passionate about creating and learning new things! I'm looking for a Software Engineering position that focuses on reactjs or Vuejs projects.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=typeerrordev&label=Profile%20views&color=0e75b6&style=flat" alt="typeerrordev" /> </p>
 
