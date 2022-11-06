@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matt!</h1>
-<h3 align="center">I'm a Full Stack Software Engineer and I am passionate about creating and learning new things! I'm looking for a Full Stack Engineer position.</h3>
+<h3 align="center">I am a Full Stack Software Engineer that focuses on technologies
+such as React, Express and SQLite in Agile and Kanban environments.
+With 18 years in the US Military, I have an active SECRET Clearance
+and demonstrated leadership experiences within a team setting.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=typeerrordev&label=Profile%20views&color=0e75b6&style=flat" alt="typeerrordev" /> </p>
 
