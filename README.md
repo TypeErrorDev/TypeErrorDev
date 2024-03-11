@@ -10,7 +10,7 @@ and demonstrated leadership experiences within a team setting.</h3>
 
 <p align="center"> <a href="https://twitter.com/typeerrordev" target="blank"><img src="https://img.shields.io/twitter/follow/typeerrordev?logo=twitter&style=for-the-badge" alt="typeerrordev" /></a> </p>
 
-- 🌱 I’m currently learning **Javascript and will be deep diving in React in the coming months**
+- 🌱 I’m currently learning **Javascript, SQL and Data Analysis**
 
 - 📫 How to reach me 
   - Portfolio - [www.MatthewPantel.com](https://www.matthewpantel.com)
