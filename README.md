@@ -15,7 +15,7 @@ and demonstrated leadership experiences within a team setting.</h3>
 - 📫 How to reach me 
   - Portfolio - [www.MatthewPantel.com](https://www.matthewpantel.com)
   - LinkedIn - [@MatthewPantel](https://www.linkedin.com/in/MatthewPantel)
-  - Twitter - [@TypeErrorDev](https://www.twitter.com/TypeErrorDev)
+  - X - [@TypeErrorDev](https://www.X.com/TypeErrorDev)
 
 - ⚡ Fun fact **I've trained with TeamUSA Judo, and I compete nationally in Judo at the 81kg Brown Belt division**
 
