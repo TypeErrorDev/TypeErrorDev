@@ -8,7 +8,10 @@ and demonstrated leadership experiences within a team setting.</h3>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=typeerrordev" alt="typeerrordev" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/typeerrordev" target="blank"><img src="https://img.shields.io/twitter/follow/typeerrordev?logo=twitter&style=for-the-badge" alt="typeerrordev" /></a> </p>
+ <a href="https://x.com/typeerrordev" target="_blank"> ![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/TypeErrorDev?style=plastic) </a>  
+ <a href="https://www.twitch.tv/typeerrordev" target="_blank">![Twitch Status](https://img.shields.io/twitch/status/TypeErrorDev)
+</a>
+
 
 - 🌱 I’m currently learning **Javascript, SQL and Data Analysis**
 
