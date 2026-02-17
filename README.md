@@ -34,6 +34,6 @@ and demonstrated leadership experiences within a team setting.</h3>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=typeerrordev&show_icons=true&locale=en&layout=compact" alt="typeerrordev" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=typeerrordev&" alt="typeerrordev" /></p>
-<a target="_blank">
+<!-- <a target="_blank">
   <img align="right" height="330px" width="500px" src="https://wakatime.com/share/@16c5dd78-106c-414b-8db4-1f9997584cea/6c236710-b07a-49d0-b996-f00d7b192fbe.svg" >
-</a>
+</a> -->
